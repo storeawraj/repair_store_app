@@ -1,2 +1,2 @@
-1.25.25
+1.25.24
 https://github.com/GSMPROma/repair_store_app05/releases/download/v1.25.25/RepairStoreManager.zip
